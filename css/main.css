@@ -1,0 +1,111 @@
+body{
+    background-color: #b2aca7;
+}
+header{
+    background-color: transparent;
+    height: 100%;
+    width:100%;
+    
+}
+nav a img{
+    float: left;
+    
+    
+}
+div#bimg{
+    float:left;
+    display: inline-block;
+    margin-left: 9%;
+}
+img#sidhu{
+    height: 456px;
+}
+img#aujla{
+
+    height: 440px;
+}
+ul{
+    list-style-type:none;
+    text-align: right;
+    margin-top: 3%;
+    margin-right: 5%;
+    
+    
+}
+
+ul li{
+    display: inline-block;
+    
+    padding-left:28px;
+    font-size:18px;
+}
+
+ul li a{
+    text-decoration: none;
+    color:#4C5C68;
+    font-weight: bold;
+    background: transparent;
+    
+}
+ul li a:hover{
+    color:#38434C;
+    padding-bottom: 4px;
+    border-bottom: 4px solid #38434C;
+}
+main div.quote{
+    display:block;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+main div em {
+    color: #46494C;
+    line-height: 60px;
+
+}
+main div em#firstl{
+    font-size: 36px;
+    opacity: 100%;
+}
+main div em#secondl{
+    font-size: 36px;
+    opacity: 90%;
+}
+main div em#thirdl{
+    font-size: 36px;
+    opacity: 75%;
+}
+main div em#forthl{
+    font-size: 36px;
+    opacity: 75%;
+}
+audio#sidhu{
+    margin-left: 32%;
+    margin-top: 20px;
+    outline: none;
+}
+audio#aujla{
+    margin-left: 21%;
+    margin-top: 20px;
+    outline: none;
+}
+div#banner{
+    margin-left: 25%;
+    width:50%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    display: block;
+}
+div#banner img{
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+div.p{
+    width:80%;
+    margin-left: 10%;
+    font-size: 18px;
+}
+div.p p{
+    text-align: center;
+}
